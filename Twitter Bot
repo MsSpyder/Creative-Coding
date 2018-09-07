@@ -1,0 +1,20 @@
+## Bot Project
+## This is a project for a twitter page called CakesByMom
+## This bot twees about cakes for the holidays and has pictures of cakes.
+
+{
+	"origin": ["This is a Twitter Page about cakes", " #alternatives#", "#completely different#"],
+	"alternatives" : ["This is a cake for New Years{img https://i.imgur.com/4lkY7ot.png}", 
+"Do you eat cake for Valentines?{img https://i.imgur.com/EatWhHW.jpg?1} ",
+ "Do you eat cake for Easter?{img https://i.imgur.com/LzZKXlAg.jpg} ", 
+"Do you eat cake for the 4th of July?{img https://i.imgur.com/f8u5HNO.jpg} ",
+ "Do you eat cake for Halloween?{img https://i.imgur.com/n04COYc.jpg} ", 
+"Do you eat cake for Thanksgiving?{img https://i.imgur.com/flKDWjR.jpg} ",
+"Do you eat cake for Christmas?{img https://i.imgur.com/bxVVhjC.jpg}" ,
+"Do you eat Birthday cake?{img https://i.imgur.com/9Km49HH.jpg} ",
+"Do you like chocolate cake?{img https://i.imgur.com/EgPLX2W.jpg}" ,
+"Do you like vanilla cake?{img https://i.imgur.com/VhPYwse.jpg} ",
+"Do you like ice cream with your cake?{img https://i.imgur.com/TnQQ0l6.jpg} ",
+"Do you like M&M's on your cake?{img https://i.imgur.com/r33JKn5b.jpg}"],
+	"completely different" : ["and now for something completely different", "so long and thanks for all the cake", "or, maybe, #alternatives# for a friend "]
+}
